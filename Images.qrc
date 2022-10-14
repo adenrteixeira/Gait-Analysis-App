@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="Icon">
+    <file>Icons/information.png</file>
+    <file>Icons/led-green.png</file>
+    <file>Icons/led-green.svg</file>
+    <file>Icons/led_n_pre.png</file>
+    <file>Icons/led-off.png</file>
+    <file>Icons/led-on.png</file>
+    <file>Icons/led-on.svg</file>
+    <file>Icons/led_pre.png</file>
+    <file>Icons/WarningSign.jpg</file>
+    <file>Icons/WarningSign.png</file>
+  </qresource>
+</RCC>
